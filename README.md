@@ -1,5 +1,6 @@
-# About me
-***✨ special ✨***
+# About me 🇬🇹
+---
+> If we pull together and commit ourselves, then we can push through anything.
 
 - 🔭 I’m currently working on my own portfolio webpage, and planning to create a new system to automatize my father's car workshop.
 - 🌱 I’m currently learning more about JavaScript, testing with Jest, creating web apps using React and Angular, and back-end using Express and Next.js. Also TypeScript. 
